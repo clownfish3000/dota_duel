@@ -123,16 +123,21 @@
 							<DOTAHeroImage heroname="npc_dota_hero_lion" />
 						</Button>
 					</Panel>
-					<Panel class="HeroPanel">
-						<Button class="HeroButton" id="npc_dota_hero_muerta" onactivate="OnSelectHero('npc_dota_hero_muerta')">
-							<DOTAHeroImage heroname="npc_dota_hero_muerta" />
-						</Button>
-					</Panel>
-					<Panel class="HeroPanel">
-						<Button class="HeroButton" id="npc_dota_hero_furion" onactivate="OnSelectHero('npc_dota_hero_furion')">
-							<DOTAHeroImage heroname="npc_dota_hero_furion" />
-						</Button>
-					</Panel>
+                                        <Panel class="HeroPanel">
+                                                <Button class="HeroButton" id="npc_dota_hero_muerta" onactivate="OnSelectHero('npc_dota_hero_muerta')">
+                                                        <DOTAHeroImage heroname="npc_dota_hero_muerta" />
+                                                </Button>
+                                        </Panel>
+                                        <Panel class="HeroPanel">
+                                                <Button class="HeroButton" id="npc_dota_hero_ringmaster" onactivate="OnSelectHero('npc_dota_hero_ringmaster')">
+                                                        <DOTAHeroImage heroname="npc_dota_hero_ringmaster" />
+                                                </Button>
+                                        </Panel>
+                                        <Panel class="HeroPanel">
+                                                <Button class="HeroButton" id="npc_dota_hero_furion" onactivate="OnSelectHero('npc_dota_hero_furion')">
+                                                        <DOTAHeroImage heroname="npc_dota_hero_furion" />
+                                                </Button>
+                                        </Panel>
 					<Panel class="HeroPanel">
 						<Button class="HeroButton" id="npc_dota_hero_necrolyte" onactivate="OnSelectHero('npc_dota_hero_necrolyte')">
 							<DOTAHeroImage heroname="npc_dota_hero_necrolyte" />
