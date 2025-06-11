@@ -104,7 +104,7 @@ function PurchaseNeutralItem(item_owner, entity, item_name, use_stash)
     else
       local team = entity:GetTeam()
 
-      local base_entity_name = nil
+      local entity_name
 
       if team == DOTA_TEAM_GOODGUYS then
         entity_name = "base_teleport_radiant"
