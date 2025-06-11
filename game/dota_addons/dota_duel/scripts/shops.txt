@@ -122,7 +122,6 @@
 		"item"		"item_pipe"			
 		"item"		"item_guardian_greaves"
 		"item"		"item_boots_of_bearing"
-		"item"		"item_wraith_pact"
 	}
 				
 	"magics"			
@@ -141,7 +140,7 @@
 		"item"		"item_refresher"
 		"item"		"item_octarine_core"
 		"item"		"item_sheepstick"
-		"item"		"item_gungir"
+		"item"		"item_gungnir"
 		"item"		"item_wind_waker"
 	}
 		
