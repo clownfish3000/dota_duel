@@ -13,7 +13,8 @@ function InitNeutrals()
   end
 
   local args = {
-    endTime = 0.5,
+    -- Neutral camps now spawn at the one minute mark like in the base game
+    endTime = 60.0,
     callback = spawn_neutrals
   }
 

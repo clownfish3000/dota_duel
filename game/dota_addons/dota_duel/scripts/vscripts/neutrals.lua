@@ -21,10 +21,11 @@ neutral_camp_info = {
 		[3] = {
 	  	["npc_dota_neutral_gnoll_assassin"] = 3,
 		},
-		[4] = {
-	  	["npc_dota_neutral_fel_beast"] = 2,
-	  	["npc_dota_neutral_ghost"] = 1,
-		},
+                -- Updated camp composition for 7.33 and later
+                [4] = {
+                ["npc_dota_neutral_hellbear_smasher"] = 1,
+                ["npc_dota_neutral_hellbear"] = 2,
+                },
 		[5] = {
 	  	["npc_dota_neutral_harpy_scout"] = 2,
 	  	["npc_dota_neutral_harpy_storm"] = 1,
