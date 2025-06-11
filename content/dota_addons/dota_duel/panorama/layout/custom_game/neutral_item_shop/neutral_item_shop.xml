@@ -80,9 +80,9 @@
 
             </Button>
  -->
-            <Button class="ItemButton" oncontextmenu="OnNeutralItemPurchased('item_possessed_mask')">
+            <Button class="ItemButton" oncontextmenu="OnNeutralItemPurchased('item_duelist_gloves')">
 
-              <DOTAItemImage itemname="item_possessed_mask" />
+              <DOTAItemImage itemname="item_duelist_gloves" />
 
             </Button>
 
@@ -92,21 +92,9 @@
 
             </Button>
  -->
-            <Button class="ItemButton" oncontextmenu="OnNeutralItemPurchased('item_mysterious_hat')">
+            <Button class="ItemButton" oncontextmenu="OnNeutralItemPurchased('item_spark_of_courage')">
 
-              <DOTAItemImage itemname="item_mysterious_hat" />
-
-            </Button>
-
-            <Button class="ItemButton" oncontextmenu="OnNeutralItemPurchased('item_unstable_wand')">
-
-              <DOTAItemImage itemname="item_unstable_wand" />
-
-            </Button>
-
-            <Button class="ItemButton" oncontextmenu="OnNeutralItemPurchased('item_pogo_stick')">
-
-              <DOTAItemImage itemname="item_pogo_stick" />
+              <DOTAItemImage itemname="item_spark_of_courage" />
 
             </Button>
 
