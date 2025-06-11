@@ -32,7 +32,7 @@
   // Set Black King Bar's cooldown and duration to final values
   "item_black_king_bar"
   {
-    "AbilityCooldown"       "90.0"
+    "AbilityCooldown"       "95.0"
     
     "AbilitySpecial"
     {
@@ -52,7 +52,7 @@
   // Set Aeon Disk's cooldown to final value
   "item_aeon_disk"
   {
-    "AbilityCooldown"       "165.0"
+    "AbilityCooldown"       "180.0"
 
     "AbilitySpecial"
     {
@@ -64,7 +64,7 @@
       "07"
       {
         "var_type"                "FIELD_FLOAT"
-        "cooldown_duration"       "165.0"
+        "cooldown_duration"       "180.0"
       }
     }
   }
